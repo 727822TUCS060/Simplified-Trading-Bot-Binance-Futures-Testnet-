@@ -90,8 +90,5 @@ python src/advanced/twap.py BTCUSDT BUY 0.03 1
 * **Validation**: The bot validates symbols, quantities, and price thresholds before execution to prevent API errors.
 * **Structured Logs**: All actions, including successful placements and error traces, are recorded in `bot.log` with high-precision timestamps.
 
----
-
-**Next Step:** Now that your documentation is ready, would you like me to help you format the **report.pdf** or provide the content for **requirements.txt**?
 <img width="1476" height="183" alt="image" src="https://github.com/user-attachments/assets/dcb8c1b9-91cc-491f-b802-81076d47d516" />
 
